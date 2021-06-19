@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtUpW">100dp</dimen>
+    <dimen name="txtUpH">40dp</dimen>
+    <dimen name="txtDownW">280dp</dimen>
+    <dimen name="txtDownH">20dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="textSizeEdt">18sp</dimen>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0C2A43</color>
+    <color name="colorPrimaryDark">#020005</color>
+    <color name="colorText">#ffffff</color>
+    <color name="colorBtn">#302F2F</color>
+    <color name="colorAccent">#257328</color>
+    <color name="colorRR">#98D8F4</color>
+    <color name="colorProfit">#B2FF59</color>
+    <color name="colorLoss">#D50000</color>
+    <color name="colorAccRisk">#FF6D00</color>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >Gerenciador de Risco Básico</string>
+    <string name="position">*Posição :</string>
+    <string name="target">*Alvo % :</string>
+    <string name="stop">*Stop % :</string>
+    <string name="capital">Capital :</string>
+    <string name="hintPosit">Quantia de entrada</string>
+    <string name="hintTarget">Seu alvo em porcentagem</string>
+    <string name="hintStop">Seu stop em porcentagem</string>
+    <string name="hintCapital">Capital disponível para trade</string>
+    <string name="clean">Limpar</string>
+    <string name="calculate">Calcular</string>
+    <string name="rrRatio">Razão Risco x Retorno</string>
+    <string name="profit">Lucro</string>
+    <string name="loss">Prejuízo</string>
+    <string name="accountRisk">Risco sobre o Capital</string>
+    <string name="fillAll">Preencha os campos obrigatórios!</string>
+</resources>

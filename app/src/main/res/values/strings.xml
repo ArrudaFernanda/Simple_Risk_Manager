@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple Risk Manager</string>
+    <string name="position">*Position Size: </string>
+    <string name="target">*Target % :</string>
+    <string name="stop">*Stop % :</string>
+    <string name="capital">Capital :</string>
+    <string name="hintPosit"></string>
+    <string name="hintTarget">Take-profit percent</string>
+    <string name="hintStop">Stop-loss percent</string>
+    <string name="hintCapital"></string>
+    <string name="clean">Clean</string>
+    <string name="calculate">Calculate</string>
+    <string name="rrRatio">Risk/Reward Ratio</string>
+    <string name="profit">Profit</string>
+    <string name="loss">Loss</string>
+    <string name="accountRisk">Account Risk</string>
+    <string name="fillAll">Fill the required fields!</string>
+</resources>
